@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-show_downloads: true
+show_downloads: false
 title: pyTranscriber
 locale: en_US
 subtitle:           
