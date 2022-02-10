@@ -1,5 +1,6 @@
 ---
 layout:    page
+theme: jekyll-theme-slate
 permalink: "/release-notes/"
 author:    am
 keywords:  releasenotes
