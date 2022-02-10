@@ -5,6 +5,7 @@ author:    am
 keywords:  releasenotes
 title:     Release Notes
 menutitle: Release Notes
+visible: true     
 ---
 
 <h1>Release Notes:</h1>
