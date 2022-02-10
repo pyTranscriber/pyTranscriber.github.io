@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    page
 permalink: "/release-notes/"
 author:    am
 keywords:  releasenotes
