@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    default
 theme: jekyll-theme-slate
 permalink: "/release-notes/"
 author:    am
