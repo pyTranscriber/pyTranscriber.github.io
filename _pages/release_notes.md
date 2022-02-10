@@ -1,6 +1,5 @@
 ---
-layout:    default
-theme: jekyll-theme-slate
+layout:    page
 permalink: "/release-notes/"
 author:    am
 keywords:  releasenotes
