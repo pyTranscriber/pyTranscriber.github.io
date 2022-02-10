@@ -1,5 +1,5 @@
 ---
-layout:    default
+layout:    page
 permalink: "/about/"
 author:    am
 keywords:  about
