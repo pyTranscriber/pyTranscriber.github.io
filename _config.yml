@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 show_downloads: true
-title:              pyTranscriber
+title: pyTranscriber
 subtitle:           
-description:        pyTranscriber is an application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
-google_ad_client:   ca-pub-7508878714159432
+description: pyTranscriber is an application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
+google_ad_client: ca-pub-7508878714159432
