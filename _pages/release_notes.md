@@ -1,3 +1,12 @@
+---
+layout:    default
+permalink: "/release-notes/"
+author:    am
+keywords:  releasenotes
+title:     Release Notes
+menutitle: Release Notes
+---
+
 <h1>Release Notes:</h1>
 <b>07/12/2020 - v1.5 </b>
 <br>* Since v1.4.1 COMPATIBLE WITH MACOS CATALINA.
