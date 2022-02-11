@@ -1,13 +1,13 @@
 theme: jekyll-theme-slate
 show_downloads: false
-title: pyTranscriber
-locale: en_US
+title: "pyTranscriber"
+locale: "en_US"
 subtitle:           
-description: pyTranscriber is an application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
-google_ad_client: ca-pub-7508878714159432
-url: https://pytranscriber.github.io/
+description: "pyTranscriber is an application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface."
+google_ad_client: "ca-pub-7508878714159432"
+url: "https://pytranscriber.github.io/"
 github_username: raryelcostasouza
 owner: 
-  name: Raryel C. Souza
-  github: raryelcostasouza
+  name: "Raryel C. Souza"
+  github: "raryelcostasouza"
 
