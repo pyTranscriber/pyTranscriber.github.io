@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Home"
+    url: /  
+  - title: "Download"
+    url: /download  
+  - title: "Changelog"
+    url: /changelog/
+  - title: "For Developers"
+    url: /for-developers/
+  

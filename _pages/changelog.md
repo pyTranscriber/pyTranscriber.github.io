@@ -1,0 +1,4 @@
+---
+permalink: /changelog/
+layout: posts
+---
