@@ -4,6 +4,10 @@ title: "For Developers"
 layout: home
 ---
 
+# See the code
+
+<a href="https://github.com/raryelcostasouza/pyTranscriber">pyTranscriber App Github Repository</a>
+
 This app consists basically of a friendly pyQt5 graphical interface for a customized version of <a href="https://github.com/agermanidis/autosub">Autosub 0.4.0</a> that can run on Linux, Windows and MacOS. All the hard work of processing the audio and generating the subtitles is done by Autosub.
 
 # Dependencies
