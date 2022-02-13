@@ -53,6 +53,4 @@ xattr -cr Downloads/pyTranscriber.app
 
 This app and its usage are licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3</a> license.
 
-```html
-<div id="amzn-assoc-ad-14f0e8dd-63a5-4516-844c-6a60dcd69ccd"></div>
-```
+
