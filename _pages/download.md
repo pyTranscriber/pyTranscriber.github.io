@@ -27,6 +27,8 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win8-10-installer.exe">pyTranscriber-v1.5-win8-10-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win8-10-portable.zip">pyTranscriber-v1.5-win8-10-portable.zip</a>
 
+<a href="https://s.click.aliexpress.com/e/_AZGVwB?bz=725*90" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png"/></a>
+
 <br>
 # Windows 7
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-installer.exe">pyTranscriber-v1.5-win7-installer.exe</a>
