@@ -34,6 +34,8 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-installer.exe">pyTranscriber-v1.5-win7-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-portable.zip">pyTranscriber-v1.5-win7-portable.zip</a>
 
+<a href="https://s.click.aliexpress.com/e/_AfF8ab?bz=725*90" target="_parent"><img width="725" height="90" src="//ae01.alicdn.com/kf/H1e303fdae72d4e4e9e7eafdcc327314ci.png"/></a>
+
 <br>
 # Mac
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-mac.zip">pyTranscriber-v1.5-mac.zip</a>
@@ -46,6 +48,7 @@ FOR macOS CATALINA AND ABOVE:
 Open a Terminal and type the following command to add an exception allowing the app to run:
 
 xattr -cr Downloads/pyTranscriber.app
+
   
 # Linux 
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-linux-installer.zip">pyTranscriber-v1.5-linux-installer.zip</a>
