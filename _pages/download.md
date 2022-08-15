@@ -23,6 +23,10 @@ The app will show a failure to connect to the internet message... meaning Google
 You need to install a desktop VPN app like Windscribe to bypass the blockage and be able to use pyTranscriber.
 
 # 15/08/2022 - New stable version 1.7!!!
+1. add proxy setting
+2. add requirements.txt
+3. rebuilt using pyInstaller 5.3 - more stability to prevent multithreading crashes on Windows
+4. Added pipfile
 
 <br>
 # Windows
@@ -53,8 +57,16 @@ xattr -cr Downloads/pyTranscriber.app
 
   
 # Linux 
+<br>
+If you use Gnome 40 or higher with Wayland you need to use the special version for that. (pyTranscriber-v1.7-linux-gnome40-wayland*.zip)
+Also make sure you have qtwayland5 package installed on your system (for Ubuntu apt install qtwayland5)
+
+  
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-installer.zip">pyTranscriber-v1.7-linux-installer.zip</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-portable.zip">pyTranscriber-v1.7-linux-portable.zip</a>
+
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip">pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip">pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip</a>
 
 # License
 
