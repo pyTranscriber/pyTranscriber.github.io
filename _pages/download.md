@@ -22,15 +22,17 @@ For users in mainland China or other places where Google is blocked
 The app will show a failure to connect to the internet message... meaning Google Servers.
 You need to install a desktop VPN app like Windscribe to bypass the blockage and be able to use pyTranscriber.
 
+# 15/08/2022 - New stable version 1.7!!!
+
 <br>
-# Windows 10 and Windows 8
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win8-10-installer.exe">pyTranscriber-v1.5-win8-10-installer.exe</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win8-10-portable.zip">pyTranscriber-v1.5-win8-10-portable.zip</a>
+# Windows
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-installer.exe">pyTranscriber-v1.7-windows-installer.exe</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-portable.zip">pyTranscriber-v1.7-windows-portable.zip</a>
 
 <a href="https://s.click.aliexpress.com/e/_AZGVwB?bz=725*90" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png"/></a>
 
 <br>
-# Windows 7
+# Windows 7 - If you had trouble using the latest version on Win 7 try this one...
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-installer.exe">pyTranscriber-v1.5-win7-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-portable.zip">pyTranscriber-v1.5-win7-portable.zip</a>
 
@@ -38,7 +40,7 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 
 <br>
 # Mac
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-mac.zip">pyTranscriber-v1.5-mac.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-mac.zip">pyTranscriber-v1.7-mac.zip</a>
 
 <br>
 As the app is not downloaded from the AppStore, it may be necessary to allow it to run manually at
@@ -51,8 +53,8 @@ xattr -cr Downloads/pyTranscriber.app
 
   
 # Linux 
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-linux-installer.zip">pyTranscriber-v1.5-linux-installer.zip</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-linux-portable.zip">pyTranscriber-v1.5-linux-portable.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-installer.zip">pyTranscriber-v1.7-linux-installer.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-portable.zip">pyTranscriber-v1.7-linux-portable.zip</a>
 
 # License
 
