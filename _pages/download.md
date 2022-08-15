@@ -33,14 +33,14 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-installer.exe">pyTranscriber-v1.7-windows-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-portable.zip">pyTranscriber-v1.7-windows-portable.zip</a>
 
-<a href="https://s.click.aliexpress.com/e/_AZGVwB?bz=725*90" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png"/></a>
+<a href="https://s.click.aliexpress.com/e/_Dm4YNnt?bz=300*250" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" /></a>
 
 <br>
 # Windows 7 - If you had trouble using the latest version on Win 7 try this one...
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-installer.exe">pyTranscriber-v1.5-win7-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-portable.zip">pyTranscriber-v1.5-win7-portable.zip</a>
 
-<a href="https://s.click.aliexpress.com/e/_AfF8ab?bz=725*90" target="_parent"><img width="725" height="90" src="//ae01.alicdn.com/kf/H1e303fdae72d4e4e9e7eafdcc327314ci.png"/></a>
+<a href="https://s.click.aliexpress.com/e/_DEhY1iR?bz=725*90" target="_parent"><img width="725" height="90" src="//ae01.alicdn.com/kf/H1e303fdae72d4e4e9e7eafdcc327314ci.png" /></a>
 
 <br>
 # Mac
@@ -62,11 +62,11 @@ If you use Gnome 40 or higher with Wayland you need to use the special version f
 Also make sure you have qtwayland5 package installed on your system (for Ubuntu apt install qtwayland5)
 
   
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-installer.zip">pyTranscriber-v1.7-linux-installer.zip</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-portable.zip">pyTranscriber-v1.7-linux-portable.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-installer.zip">pyTranscriber-v1.7-linux-installer.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-portable.zip">pyTranscriber-v1.7-linux-portable.zip</a>
 
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip">pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip">pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip">pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip</a>
 
 # License
 
