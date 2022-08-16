@@ -15,6 +15,7 @@ pyTranscriber is developed as a hobby and is available for free, but donations a
 Your donations will help me free up my time to do more direct work on pyTranscriber. If I can generate more income from sponsorship here, I can take time out of other jobs and commit more time to work on <b>bug fixes</b>, add <b>new features</b>, and make <b>new releases</b>, like possible future integration with Mozilla Deep Speech engine, which may improve accuracy and control over the speech detection.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6AIR3D)
+<iframe src="https://github.com/sponsors/raryelcostasouza/button" title="Sponsor raryelcostasouza" height="35" width="116" style="border: 0;"></iframe>
 
 # For users living where Google Services are blocked:
 
