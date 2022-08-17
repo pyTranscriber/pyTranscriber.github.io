@@ -74,6 +74,7 @@ Also make sure you have qtwayland5 package installed on your system (for Ubuntu 
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-gnome40-wayland-installer.zip">pyTranscriber-linux-gnome40-wayland-installer.zip</a>
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-gnome40-wayland-portable.zip">pyTranscriber-linux-gnome40-wayland-portable.zip</a>
 
+
 # License
 
 This app and its usage are licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3</a> license.
