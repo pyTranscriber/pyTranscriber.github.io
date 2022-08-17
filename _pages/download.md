@@ -23,6 +23,11 @@ For users in mainland China or other places where Google is blocked
 The app will show a failure to connect to the internet message... meaning Google Servers.
 You need to install a desktop VPN app like Windscribe to bypass the blockage and be able to use pyTranscriber.
 
+# 17/08/2022 - New stable version 1.8!!
+1. Fixed bug: language codes for Chinese Languages updated accordingly to Speech API. Changed to "cmn-Hans-CN" and "cmn-Hant-TW" instead of "zh / zh-TW").. The output was always mistakenly coming in Cantonese (yue-Hant-HK). Now they come properly in Traditional Chinese and Simplified Chinese. Thanks to "Specter Hi" for reporting!
+2. Added GUI language switch feature
+3. Updated link to funding campaign at GitHub Sponsors
+
 # 15/08/2022 - New stable version 1.7!!!
 1. add proxy setting
 2. add requirements.txt
@@ -31,8 +36,8 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 
 <br>
 # Windows
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-installer.exe">pyTranscriber-v1.7-windows-installer.exe</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-windows-portable.zip">pyTranscriber-v1.7-windows-portable.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-win-installer.exe">pyTranscriber-windows-installer.exe</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-win-portable.zip">pyTranscriber-windows-portable.zip</a>
 
 <a href="https://s.click.aliexpress.com/e/_Dm4YNnt?bz=300*250" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" /></a>
 
@@ -45,7 +50,7 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 
 <br>
 # Mac
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-mac.zip">pyTranscriber-v1.7-mac.zip</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-mac.zip">pyTranscriber-mac.zip</a>
 
 <br>
 As the app is not downloaded from the AppStore, it may be necessary to allow it to run manually at
@@ -59,15 +64,15 @@ xattr -cr Downloads/pyTranscriber.app
   
 # Linux 
 <br>
-If you use Gnome 40 or higher with Wayland you need to use the special version for that. (pyTranscriber-v1.7-linux-gnome40-wayland*.zip)
+If you use Gnome 40 or higher with Wayland you need to use the special version for that. (pyTranscriber-linux-gnome40-wayland*.zip)
 Also make sure you have qtwayland5 package installed on your system (for Ubuntu apt install qtwayland5)
 
   
-* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-installer.zip">pyTranscriber-v1.7-linux-installer.zip</a>
-* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-portable.zip">pyTranscriber-v1.7-linux-portable.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-installer.zip">pyTranscriber-linux-installer.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-portable.zip">pyTranscriber-linux-portable.zip</a>
 
-* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip">pyTranscriber-v1.7-linux-gnome40-wayland-installer.zip</a>
-* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.7-stable/pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip">pyTranscriber-v1.7-linux-gnome40-wayland-portable.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-gnome40-wayland-installer.zip">pyTranscriber-linux-gnome40-wayland-installer.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.8-stable/pyTranscriber-v1.8-linux-gnome40-wayland-portable.zip">pyTranscriber-linux-gnome40-wayland-portable.zip</a>
 
 # License
 
