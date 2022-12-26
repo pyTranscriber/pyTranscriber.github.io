@@ -80,7 +80,7 @@ For latest distros with GLIBC version 2.35 or higher download
 For older distros or GLIBC version < 2.35 (incompatible with GNOME 40+)
   
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-linux-libc2.31-installer.zip">pyTranscriber-linux-lib2.31-installer.zip</a>
-* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-linux-libc2.31portable.zip">pyTranscriber-linux-libc2.31-portable.zip</a>
+* <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-linux-libc2.31-portable.zip">pyTranscriber-linux-libc2.31-portable.zip</a>
 
 
 # License
