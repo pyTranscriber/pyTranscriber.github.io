@@ -4,11 +4,7 @@ title: "Download"
 layout: home
 ---
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YHB854YHPJCU8&item_name=Donation+pyTranscriber&currency_code=BRL)
-[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/btc.png)
-[![Tip Me via Ethereum](https://img.shields.io/badge/Ethereum-tip%20me-1462ab.svg?logo=ethereum)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/eth.png)
-[![Tip Me via Litecoin](https://img.shields.io/badge/Litecoin-tip%20me-f7931a.svg?logo=litecoin)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/ltc.png)
-[![Tip Me via BNB](https://img.shields.io/badge/BNB-tip%20me-1462ab.svg?logo=binance)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/bnb.png)
-[![Tip Me via Dogecoin](https://img.shields.io/badge/Dogecoin-tip%20me-f7931a.svg?logo=dogecoin)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/doge.png)
+[![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://github.com/raryelcostasouza/pyTranscriber/raw/master/doc/lightning.jpeg)
 
 pyTranscriber is developed as a hobby and is available for free, but donations are welcomed and essential for further improvements.
 
@@ -41,6 +37,24 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 2. add requirements.txt
 3. rebuilt using pyInstaller 5.3 - more stability to prevent multithreading crashes on Windows
 4. Added pipfile
+
+# Hashes to verify the files authenticity (SHA256 sum):
+
+## Windows:
+
+pyTranscriber-1.9-win-installer.exe - ad4583ba9e7a7ffc20b1c8489a1d8c59c90fe693f4330b93d15647ae3c66bef9
+pyTranscriber-v1.9-win-portable.zip - e65f329bc59cf89f643466f15f96efa5e423356ddd11e63379c7fa71de80ac41
+
+## MacOS
+
+pyTranscriber-v1.9-mac.zip - ca0a4c5a41561b94034156f0bdff6e4388d66d01bf0f8455e4451f80c87e55e4
+
+## Linux
+
+pyTranscriber-v1.9-linux-portable.zip - f76cdda1ca24868b5a7d5aeeee4a1763d455e033c4a16822b5782505d738b797
+pyTranscriber-v1.9-linux-installer.zip - 29f0ec7ad46b0f6328258cad8ce4ce977842f73ca2e98e3bc92b9cc37b661ded
+pyTranscriber-v1.9-linux-libc2.31-installer.zip - 6411c38eac98fb3a4b035cd99d7f73fa61375f66426ce0c5ffd7ceee7bf184b6
+pyTranscriber-v1.9-linux-libc2.31-portable.zip - 3bf3155c026eaa24138fada830d673cb4332216e51fcb24c7c6a3d6aac23e341
 
 <br>
 # Windows
@@ -81,6 +95,7 @@ For older distros or GLIBC version < 2.35 (incompatible with GNOME 40+)
   
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-linux-libc2.31-installer.zip">pyTranscriber-linux-lib2.31-installer.zip</a>
 * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-linux-libc2.31-portable.zip">pyTranscriber-linux-libc2.31-portable.zip</a>
+
 
 
 # License
