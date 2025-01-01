@@ -66,8 +66,6 @@ pyTranscriber-v1.9-linux-libc2.31-portable.zip - 3bf3155c026eaa24138fada830d673c
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-installer.exe">pyTranscriber-v1.5-win7-installer.exe</a>
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.5-stable/pyTranscriber-v1.5-win7-portable.zip">pyTranscriber-v1.5-win7-portable.zip</a>
 
-<a href="https://s.click.aliexpress.com/e/_DEhY1iR?bz=725*90" target="_parent"><img width="725" height="90" src="//ae01.alicdn.com/kf/H1e303fdae72d4e4e9e7eafdcc327314ci.png" /></a>
-
 <br>
 # Mac
   * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-mac.zip">pyTranscriber-mac.zip</a>
