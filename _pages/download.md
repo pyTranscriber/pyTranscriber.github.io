@@ -58,10 +58,8 @@ pyTranscriber-v1.9-linux-libc2.31-portable.zip - 3bf3155c026eaa24138fada830d673c
 
 <br>
 # Windows
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-win-installer.exe">pyTranscriber-windows-installer.exe</a>
-  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-v1.9-win-portable.zip">pyTranscriber-windows-portable.zip</a>
-
-<a href="https://s.click.aliexpress.com/e/_Dm4YNnt?bz=300*250" target="_parent"><img width="725" height="90" src="https://ae01.alicdn.com/kf/S3619e57974f148d087c950fe497cdf55q/300x250.jpg" /></a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-1.9-win-installer.exe">pyTranscriber-windows-installer.exe</a>
+  * <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/download/v1.9/pyTranscriber-1.9-win-portable.zip">pyTranscriber-windows-portable.zip</a>
 
 <br>
 # Windows 7 - If you had trouble using the latest version on Win 7 try this one...
