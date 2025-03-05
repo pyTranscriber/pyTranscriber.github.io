@@ -22,11 +22,11 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 该应用程序将显示连接到互联网消息失败...意思是谷歌服务器。
 您需要使用代理服务并在 pytranscriber 设置 > 代理中进行设置，或者安装桌面 VPN 应用程序（如 Windscribe）绕过阻塞并能够使用 pyTranscriber。
 
-# 04/03/2025 - New RC_1 version 2.0 (MacOS Apple Silicon)
+# 04/03/2025 - New RC_1 version 2.0 (Windows / MacOS Apple Silicon)
 1. Added support for openAI Whisper with local processing
 2. Added saving/load settings to sqlite local db
 
-<a href="https://github.com/raryelcostasouza/pyTranscriber/releases/tag/v2.0-rc1">pyTranscriber-macos-v.2.0RC_1.zip</a>
+<a href="https://github.com/raryelcostasouza/pyTranscriber/releases/tag/v2.0-rc1">pyTranscriber-v2.0RC_1 Release Candidate</a>
 
 
 # 21/12/2022 - New stable version 1.9!
