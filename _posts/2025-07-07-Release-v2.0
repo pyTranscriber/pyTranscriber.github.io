@@ -1,0 +1,26 @@
+---
+defaults:
+  # _posts
+  - scope:
+      #path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+---
+
+<b>UPDATE - v2.0-stable - 07/07/2025</b>
+<br>1. Added binary for Linux (GLIBC 2.35 or newer)
+<br>
+<b>UPDATE - v2.0-stable - 22/05/2025</b>
+<br>1. Fixed issue with cantonese language not working using whisper engine
+<br>2.  Fixed srt file generation not being compliant with srt syntax
+<br>
+<b> UPDATE - v2.0-RC_1 - 04/03/2025</b>
+<br>1. Added support for <a hfref="https://openai.com/index/whisper/">openAI Whisper</a> with local processing of media files as alternative to Google Speech API (where all media file is uploaded to Google servers for processing)
+<br>2. Added saving/load settings to sqlite local db
