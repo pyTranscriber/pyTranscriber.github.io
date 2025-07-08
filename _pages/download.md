@@ -22,7 +22,7 @@ You need to install a desktop VPN app like Windscribe to bypass the blockage and
 该应用程序将显示连接到互联网消息失败...意思是谷歌服务器。
 您需要使用代理服务并在 pytranscriber 设置 > 代理中进行设置，或者安装桌面 VPN 应用程序（如 Windscribe）绕过阻塞并能够使用 pyTranscriber。
 
-# 24/05/2025 - 2.0 stable (Windows / MacOS Apple Silicon)
+# 24/05/2025 - 2.0 stable (Windows / MacOS Apple Silicon / Linux (GLIBC 2.35 or newer))
 1. Fixed issue with cantonese language not working using whisper engine
 2. Fixed srt file generation not being compliant with srt syntax
 <a href="https://github.com/raryelcostasouza/pyTranscriber/releases/tag/v2.0.0-stable">pyTranscriber-v2.0 Stable</a>
